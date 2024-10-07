@@ -1,1 +1,1 @@
-code and resut for Prof. Dr. Huo
+code and result for Prof. Dr. Huo
