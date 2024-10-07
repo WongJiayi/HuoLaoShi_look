@@ -1,2 +1,1 @@
-kan ba jiu
-yi kan yi ge bu zi sheng
+code and resut for Prof. Dr. Huo
