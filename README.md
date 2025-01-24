@@ -1,1 +1,1 @@
-The assignments for curse Maschine Lerning
+The assignments for Maschine Lerning
